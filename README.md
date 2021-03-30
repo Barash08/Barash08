@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Barash08
+- 👋 Hi, I’m Yasha Burns
 - 👀 I’m interested in 3D modeling and Game dev
 - 🌱 I’m currently learning 3D modeling and Game dev
 - 💞️ I’m looking to collaborate on nothing lol
